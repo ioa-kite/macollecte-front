@@ -1,0 +1,90 @@
+{
+    "69d4a5bb-09a3-4f3d-a94e-667c21c057eb": {
+        "id": "2d4cc3dd-0f61-49c8-8aec-944645e2c688",
+        "name": "NPM",
+        "designId": "c4227769-1611-4f1b-8094-a22ae015d3ab",
+        "pluginId": "69d4a5bb-09a3-4f3d-a94e-667c21c057eb",
+        "publicData": {
+            "packages": [
+                {
+                    "link": "http://devongovett.github.com/pdfkit/",
+                    "name": "pdf.js",
+                    "version": "0.1.0",
+                    "instanceName": "pdfjsLib"
+                }
+            ]
+        }
+    },
+    "2bd1c688-31c5-443e-ae25-59aa5b6431fb": {
+        "id": "9348d35d-9f47-425f-9f1d-ad8432c7af30",
+        "name": "REST API",
+        "designId": "c4227769-1611-4f1b-8094-a22ae015d3ab",
+        "pluginId": "2bd1c688-31c5-443e-ae25-59aa5b6431fb",
+        "publicData": {}
+    },
+    "ee24f5ac-e15e-4ddd-baa4-0b4baedf90c9": {
+        "id": "37d798e3-c979-4646-a6e4-6f5de3369fb9",
+        "name": "CSV",
+        "designId": "c4227769-1611-4f1b-8094-a22ae015d3ab",
+        "pluginId": "ee24f5ac-e15e-4ddd-baa4-0b4baedf90c9",
+        "publicData": {}
+    },
+    "832d6f7a-42c3-43f1-a3ce-9a678272f811": {
+        "id": "8f88b01b-db42-406d-bd26-6db55d17b6a9",
+        "name": "Date",
+        "designId": "c4227769-1611-4f1b-8094-a22ae015d3ab",
+        "pluginId": "832d6f7a-42c3-43f1-a3ce-9a678272f811",
+        "publicData": {
+            "favoriteFormat": "DD/MM/YYYY"
+        }
+    },
+    "9c40819b-4a8f-468f-9ba5-4b9699f3361f": {
+        "id": "95c402f2-2fff-40b2-8e8d-4a921860f10b",
+        "name": "Charts",
+        "designId": "c4227769-1611-4f1b-8094-a22ae015d3ab",
+        "pluginId": "9c40819b-4a8f-468f-9ba5-4b9699f3361f",
+        "publicData": {}
+    },
+    "cabb43dd-6161-4140-8ebf-03b6fb045a0b": {
+        "id": "42213d0f-0d73-4141-9f3d-8674fd3f8707",
+        "name": "Google",
+        "designId": "c4227769-1611-4f1b-8094-a22ae015d3ab",
+        "pluginId": "cabb43dd-6161-4140-8ebf-03b6fb045a0b",
+        "publicData": {}
+    },
+    "f5856798-485d-47be-b433-d43d771c64e1": {
+        "id": "e3078392-5026-421a-962c-a784bcaceda3",
+        "name": "Xano Auth",
+        "designId": "c4227769-1611-4f1b-8094-a22ae015d3ab",
+        "pluginId": "f5856798-485d-47be-b433-d43d771c64e1",
+        "publicData": {
+            "domain": "xtba-gjq1-ib8i.p7.xano.io",
+            "xBranchProd": "prod",
+            "getMeEndpoint": "https://xtba-gjq1-ib8i.p7.xano.io/api:INLhbCfz/auth/me",
+            "loginEndpoint": "https://xtba-gjq1-ib8i.p7.xano.io/api:INLhbCfz/auth/login",
+            "xBranchEditor": "dev",
+            "signupEndpoint": "https://xtba-gjq1-ib8i.p7.xano.io/api:INLhbCfz/auth/signup",
+            "xBranchStaging": "dev",
+            "socialProviders": {},
+            "xDataSourceProd": "live",
+            "xDataSourceEditor": "dev",
+            "xDataSourceStaging": "dev"
+        }
+    },
+    "cd33cf33-e29f-4e8c-ac26-b997fe507ce7": {
+        "id": "609e688e-a9ae-45cd-a5cf-3a467b11ad41",
+        "name": "Xano",
+        "designId": "c4227769-1611-4f1b-8094-a22ae015d3ab",
+        "pluginId": "cd33cf33-e29f-4e8c-ac26-b997fe507ce7",
+        "publicData": {
+            "domain": "xtba-gjq1-ib8i.p7.xano.io",
+            "xBranchProd": "prod",
+            "customDomain": "",
+            "xBranchEditor": "dev",
+            "xBranchStaging": "dev",
+            "xDataSourceProd": "live",
+            "xDataSourceEditor": "dev",
+            "xDataSourceStaging": "dev"
+        }
+    }
+}
